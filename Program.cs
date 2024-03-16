@@ -1,4 +1,6 @@
-﻿namespace BankingSystem{
+﻿using System;
+using System.Collections.Generic;
+namespace BankingSystem{
   class Program {
     static void Main(string[] args) {
         Bank bank = new Bank();
