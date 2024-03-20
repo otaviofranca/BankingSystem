@@ -10,4 +10,5 @@ Verificar Saldo: Permite aos usuários verificar o saldo atual de sua conta banc
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request com melhorias ou correções de bugs.
 
 Autores
-Seu Nome otaviofrancaofficial@email.com
+Otávio C. França
+e-mail: otaviofrancaofficial@email.com
