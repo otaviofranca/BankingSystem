@@ -12,3 +12,4 @@ C:\Users\otavi\Videos\BankingSystem\obj\Debug\net8.0\refint\BankingSystem.dll
 C:\Users\otavi\Videos\BankingSystem\obj\Debug\net8.0\BankingSystem.pdb
 C:\Users\otavi\Videos\BankingSystem\obj\Debug\net8.0\BankingSystem.genruntimeconfig.cache
 C:\Users\otavi\Videos\BankingSystem\obj\Debug\net8.0\ref\BankingSystem.dll
+C:\Users\otavi\Videos\BankingSystem\obj\Debug\net8.0\BankingSystem.sourcelink.json

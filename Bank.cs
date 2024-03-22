@@ -4,7 +4,7 @@ namespace BankingSystem{
 
     public void CreateAccount() {
         Console.Write("Digite o nome do titular da conta: ");
-        string name = Console.ReadLine();
+        string name = Console.ReadLine() ?? "";
         if (String.IsNullOrWhiteSpace(name)) {
             Console.WriteLine("Nome invalido.");
             return;
@@ -26,10 +26,17 @@ namespace BankingSystem{
         Console.WriteLine("Conta criada com sucesso");
     }
 
-    public Account AccessAccount() {
+    public Account AccessAccount() 
+    {
         Console.WriteLine("Digite o nome do titular da conta: ");
-        string name = Console.ReadLine();
-        return accounts.Find(a => a.Name == name);
+        string? name = Console.ReadLine();
+        Account? account = accounts.Find(a => a.Name == name);
+        if (account == null) 
+        {
+            throw new Exception("Titular da conta não encontrado.");
+        }
+    return account;
     }
+
   }
 }
