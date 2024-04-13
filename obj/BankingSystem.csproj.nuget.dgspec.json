@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\otavi\\Videos\\BankingSystem\\BankingSystem.csproj": {}
+    "C:\\Users\\otavi\\OneDrive\\Área de Trabalho\\programming studies\\C#\\Banking\\BankingSystem\\BankingSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\otavi\\Videos\\BankingSystem\\BankingSystem.csproj": {
+    "C:\\Users\\otavi\\OneDrive\\Área de Trabalho\\programming studies\\C#\\Banking\\BankingSystem\\BankingSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\otavi\\Videos\\BankingSystem\\BankingSystem.csproj",
+        "projectUniqueName": "C:\\Users\\otavi\\OneDrive\\Área de Trabalho\\programming studies\\C#\\Banking\\BankingSystem\\BankingSystem.csproj",
         "projectName": "BankingSystem",
-        "projectPath": "C:\\Users\\otavi\\Videos\\BankingSystem\\BankingSystem.csproj",
+        "projectPath": "C:\\Users\\otavi\\OneDrive\\Área de Trabalho\\programming studies\\C#\\Banking\\BankingSystem\\BankingSystem.csproj",
         "packagesPath": "C:\\Users\\otavi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\otavi\\Videos\\BankingSystem\\obj\\",
+        "outputPath": "C:\\Users\\otavi\\OneDrive\\Área de Trabalho\\programming studies\\C#\\Banking\\BankingSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\otavi\\AppData\\Roaming\\NuGet\\NuGet.Config"
